@@ -29,7 +29,7 @@ export default function index() {
 			<div className="row footer_bottom justify-content-center">
 				<p className="col-lg-8 col-sm-12 footer-text">
 					
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i className="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This site is made with <i className="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://www.linkedin.com/in/wilfried-mambou-244231169/" target="_blank">wilfried Mambou</a>
 </p>
 			</div>
 		</div>
