@@ -3299,8 +3299,17 @@ h6 {
     .footer_area .footer_bottom a {
       color: #854fee; }
 
+
+
+
 /* End Footer Area css
 ============================================================================================ */
 /*---------------------------------------------------- */
 
 /*# sourceMappingURL=style.css.map */
+
+
+.eature_item{
+  /* text-overflow:scrallable; */
+  overflow-y: scroll;
+}
