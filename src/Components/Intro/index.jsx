@@ -45,13 +45,21 @@ export default function index() {
 							Introduce about <br/>
 							myself</h2>
 						<p>
-							Whose given. Were gathered. There first subdue greater. Bearing you Whales heaven 
-							midst their. Beast creepeth. Fish days.
+						Hello, my name is Wilfried Mambou and I'm delighted to welcome you to my website! I'm a passionate software engineer, with a Master's degree in software engineering from the Protestant University of Central Africa. I'm proud to say that I've been a mentor at OpenClassrooms since 2020, where I've helped several hundred developers to acquire programming skills.
+
 						</p>
 						<p>
-							Is give may shall likeness made yielding spirit a itself together created after sea 
-							is in beast beginning signs open god you're gathering whose gathered cattle let. 
-							Creature whales fruit unto meat the life beginning all in under give two.
+						Since I started working in the development industry, I have constantly sought to learn new skills and improve my programming abilities. As a full-stack developer, I have extensive experience in technologies such as ReactJS, NodeJS, Express, and MongoDB, which I frequently use to develop modern and scalable web applications.
+
+						</p>
+
+						<p>
+						I believe that web development is a constantly evolving field, and I'm constantly trying to stay informed about the latest technological developments and market trends. I'm also passionate about values such as honesty, respect, and integrity, and I strive to embody these in every aspect of my work. My ultimate goal is to provide high-quality services to all my clients, and contribute to the success of their development projects.
+
+						</p>
+						<p>
+						I'm happy to offer my skills to you, providing customized solutions to meet all your web development needs. Feel free to contact me to discuss your project!
+
 						</p>
 						<a className="primary_btn" href="#"><span>Download CV</span></a>
 					</div>
@@ -62,3 +70,11 @@ export default function index() {
     </>
     )
 }
+
+
+
+
+
+
+
+
