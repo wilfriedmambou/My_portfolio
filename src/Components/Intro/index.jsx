@@ -15,7 +15,7 @@ export default function index() {
 							<h1 className="text-uppercase">I am wilfried Mambou</h1>
 							<h5 className="text-uppercase">senior Fullstack developer</h5>
 							<div className="d-flex align-items-center">
-								<a className="primary_btn" href="#"><span>Hire Me</span></a>
+								<a className="primary_btn" href="https://www.linkedin.com/in/wilfried-mambou/"><span>Hire Me</span></a>
 								<a className="primary_btn tr-bg" href="/R_N_C_EN_Mambou_wilfried.pdf" download="R_N_C_EN_Mambou_wilfried.pdf"><span>Get CV</span></a>
 							</div>
 						</div>
