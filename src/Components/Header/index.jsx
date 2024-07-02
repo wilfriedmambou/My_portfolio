@@ -23,10 +23,10 @@ export default function index() {
 					{/* <!-- Collect the nav links, forms, and other content for toggling --> */}
 					<div className="collapse navbar-collapse offset" id="navbarSupportedContent">
 						<ul className="nav navbar-nav menu_nav justify-content-end">
-							<li className="nav-item active"><a className="nav-link" href="index.html">Home</a></li>
-							<li className="nav-item"><a className="nav-link" href="about.html">About</a></li>
-							<li className="nav-item"><a className="nav-link" href="services.html">Services</a></li>
-							<li className="nav-item"><a className="nav-link" href="portfolio.html">Portfolio</a></li>
+							<li className="nav-item active"><a className="nav-link" href="#">Home</a></li>
+							<li className="nav-item"><a className="nav-link" href="#about">About</a></li>
+							<li className="nav-item"><a className="nav-link" href="#services">Services</a></li>
+							<li className="nav-item"><a className="nav-link" href="#portfolio">Portfolio</a></li>
 						
 							
 							<li className="nav-item"><a className="nav-link" href="contact.html">Contact</a></li>

@@ -15,7 +15,7 @@ export default function MyWork() {
   }, []);
 
   return (
-    <div>
+    <div id="portfolio">
       <ComponentContainer>
         <StyledSubTitle>My work</StyledSubTitle>
         <StyledText>

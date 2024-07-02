@@ -5,7 +5,7 @@ import service3 from '../../img/services/s3.png'
 import service4 from '../../img/services/s4.png'
 
 export default function index() {
-    return (<section className="features_area">
+    return (<section className="features_area" id='services'>
 		<div className="container">
 			<div className="row justify-content-center">
 				<div className="col-lg-8 text-center">

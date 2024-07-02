@@ -5,7 +5,7 @@ import WilPP from '../Intro/wil.png'
 export default function index() {
     return ( <>
 
-<section className="home_banner_area">
+<section className="home_banner_area" id='about'>
 		<div className="banner_inner">
 			<div className="container">
 				<div className="row">
@@ -29,7 +29,7 @@ export default function index() {
 			</div>
 		</div>
 	</section>
-        <div className="about_area section_gap">
+        <div className="about_area section_gap" id="about">
 		<div className="container">
 			<div className="row justify-content-start align-items-center">
 				<div className="col-lg-5">

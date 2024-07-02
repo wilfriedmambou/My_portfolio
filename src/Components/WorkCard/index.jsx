@@ -23,7 +23,7 @@ export default function WorkCard({
   }
   return (
     title.toLowerCase().includes('portfolio') && (
-      <StyledDiv>
+      <StyledDiv id='portfolio'>
         <ImageContainer href={homepage} target="_blank" rel="noreferrer">
           <Image src={screenshot} alt="" />
         </ImageContainer>
