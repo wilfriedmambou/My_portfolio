@@ -23,28 +23,28 @@ export default function index() {
 					<div className="feature_item">
 						<img src={service1} alt=""/>
 						<h4>Wp developing</h4>
-						<p>Our web development service focuses on creating custom, responsive, and high-performance websites that meet the needs and expectations of our clients. We work closely with them to understand their vision, brand identity, and objectives. Our highly skilled team of web developers leverages powerful tools and cutting-edge technologies to develop bespoke projects using languages such as HTML5, CSS3, JavaScript, ReactJS, NodeJS, PHP, MySQL, MongoDB, WordPress, and more. We offer a wide variety of solutions, from a simple business website to a sophisticated e-commerce site. Our commitment to excellence, user experience, and client satisfaction is at the core of everything we do. We provide creative, state-of-the-art web solutions so that you can focus on growing your business.</p>
+						<p>Fullstack MERN developer with 7+ years' experience. Expertise in React, Node.js, MongoDB, Express. Passionate about best practices and teaching.</p>
 					</div>
 				</div>
 				<div className="col-lg-3 col-md-6">
 					<div className="feature_item">
 						<img src={service2} alt=""/>
 						<h4>UI/ux design</h4>
-						<p>As a UX designer, I help businesses create products and services that are user-centered, intuitive, and visually appealing. My goal is to enhance the end-users' experience, increase customer satisfaction and loyalty, and drive business growth. I follow a human-centered design process, which means I focus on understanding the users' needs, behaviors, and emotions, as well as the client's goals and constraints. I use a variety of research methods, such as surveys, interviews, usability testing, and analytics, to gather insights and validate design decisions.</p>
+						<p>Passionate about UI/UX design with a focus on user-centric interfaces, enhancing usability, and creating visually appealing digital experiences.</p>
 					</div>
 				</div>
 				<div className="col-lg-3 col-md-6">
 					<div className="feature_item">
 						<img src={service3} alt=""/>
 						<h4>Web design</h4>
-						<p>Creeping for female light years that lesser can't evening heaven isn't bearing tree</p>
+						<p>Passionate about web design, creating responsive, user-friendly, and visually appealing websites. Expertise in HTML, CSS, JavaScript, and modern design principles</p>
 					</div>
 				</div>
 				<div className="col-lg-3 col-md-6">
 					<div className="feature_item">
 						<img src={service4} alt=""/>
-						<h4>seo optimize</h4>
-						<p>I am an SEO expert who helps businesses improve their online visibility, organic traffic, and search engine rankings, using various on-page and off-page SEO techniques</p>
+						<h4>Devops</h4>
+						<p>Experienced in DevOps CI/CD, automating builds, testing, and deployments. Proficient with Docker, Kubernetes, Jenkins, GitHub Actions for efficient workflows.</p>
 					</div>  </div>
 			</div>
 		</div>

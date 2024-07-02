@@ -16,7 +16,7 @@ export default function index() {
 							<h5 className="text-uppercase">senior Fullstack developer</h5>
 							<div className="d-flex align-items-center">
 								<a className="primary_btn" href="#"><span>Hire Me</span></a>
-								<a className="primary_btn tr-bg" href="#"><span>Get CV</span></a>
+								<a className="primary_btn tr-bg" href="/R_N_C_EN_Mambou_wilfried.pdf" download="R_N_C_EN_Mambou_wilfried.pdf"><span>Get CV</span></a>
 							</div>
 						</div>
 					</div>
@@ -49,7 +49,7 @@ export default function index() {
 
 						</p>
 						<p>
-						Since I started working in the development industry, I have constantly sought to learn new skills and improve my programming abilities. As a full-stack developer, I have extensive experience in technologies such as ReactJS, NodeJS, Express, and MongoDB, which I frequently use to develop modern and scalable web applications.
+						Since I started working in the development industry, I have constantly sought to learn new skills and improve my programming abilities. As a full-stack developer, I have extensive experience in technologies such as ReactJS, NodeJS, Express, and MongoDB, which I frequently use to develop modern and scalable web applications. I love DevOps CI/CD, automating builds, testing, and deployments to streamline and enhance development workflows..
 
 						</p>
 
@@ -61,7 +61,7 @@ export default function index() {
 						I'm happy to offer my skills to you, providing customized solutions to meet all your web development needs. Feel free to contact me to discuss your project!
 
 						</p>
-						<a className="primary_btn" href="#"><span>Download CV</span></a>
+						<a className="primary_btn" href="/R_N_C_EN_Mambou_wilfried.pdf" download="R_N_C_EN_Mambou_wilfried.pdf"><span>Download CV</span></a>
 					</div>
 				</div>
 			</div>

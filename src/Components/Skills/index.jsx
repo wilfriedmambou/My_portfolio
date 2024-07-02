@@ -31,7 +31,7 @@ export default function index() {
           <div className="offset-lg-2 col-lg-4 col-md-6">
             <div className="client-info">
               <div className="d-flex mb-50">
-                <span className="lage">6</span>
+                <span className="lage">7 +</span>
                 <span className="smll">Years Experience Working</span>
               </div>
               <div className="call-now d-flex">
@@ -40,7 +40,7 @@ export default function index() {
                 </div>
                 <div className="ml-15">
                   <p>call us now</p>
-                  <h3>(+237)697846892</h3>
+                  <h3>+1(514)2363812</h3>
                 </div>
               </div>
             </div>
